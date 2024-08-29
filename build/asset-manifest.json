@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7f5823a2.css",
+    "main.js": "/static/js/main.0094ba20.js",
+    "static/js/787.749b4a44.chunk.js": "/static/js/787.749b4a44.chunk.js",
+    "static/media/news.png": "/static/media/news.f045be88e40fc25c513e.png",
+    "static/media/homeImage.png": "/static/media/homeImage.3d95f6590f70693b6ba6.png",
+    "static/media/contactusbg.png": "/static/media/contactusbg.763a3c4a9285409abd28.png",
+    "static/media/react.png": "/static/media/react.49b190cfcec53572a139.png",
+    "static/media/wells.png": "/static/media/wells.4ce6fb536765dd3517d3.png",
+    "static/media/robo.png": "/static/media/robo.da55497fb34f0d883d69.png",
+    "static/media/book.png": "/static/media/book.803e11196b58a40a7a29.png",
+    "static/media/phone.png": "/static/media/phone.4f979ce3daf3b3a78f40.png",
+    "static/media/android.png": "/static/media/android.0091c33eba408b2cb3b7.png",
+    "static/media/laptop.png": "/static/media/laptop.ad552bd57dde4e9e1134.png",
+    "static/media/mongodb.png": "/static/media/mongodb.bf8042403d8797a7ff1b.png",
+    "static/media/skill.png": "/static/media/skill.b9c82d5884078609fc2b.png",
+    "static/media/GitHub.png": "/static/media/GitHub.7c8f7736007664c4b0ba.png",
+    "static/media/gitlab.jpg": "/static/media/gitlab.2b831a84b522ae73188f.jpg",
+    "static/media/aflac.png": "/static/media/aflac.e51022c4fec267fd0e2e.png",
+    "static/media/cognizantLogo.png": "/static/media/cognizantLogo.a6cefc1af8dcaaad1291.png",
+    "static/media/api.png": "/static/media/api.7795cc25073c4b3289d8.png",
+    "static/media/firebase.png": "/static/media/firebase.6b405206252ff65ef584.png",
+    "index.html": "/index.html",
+    "static/media/wave.svg": "/static/media/wave.e42ddec972c9ec214abc0ac6e8439ee4.svg",
+    "main.7f5823a2.css.map": "/static/css/main.7f5823a2.css.map",
+    "main.0094ba20.js.map": "/static/js/main.0094ba20.js.map",
+    "787.749b4a44.chunk.js.map": "/static/js/787.749b4a44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f5823a2.css",
+    "static/js/main.0094ba20.js"
+  ]
+}
